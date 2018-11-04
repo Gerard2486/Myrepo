@@ -8,3 +8,4 @@ Test repo for GIT
 4
 5
 
+New line from new clone
